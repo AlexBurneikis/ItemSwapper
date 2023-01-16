@@ -1,6 +1,6 @@
 # ItemSwapper Fork
 
-**This fork changes the swapper to separate swords and proejctile weapons, and also adds fireworks**
+*This fork changes the swapper to separate swords and proejctile weapons, and also adds fireworks*
 
 > This mod is still in development and may change over time. Feel free to open an issue/discussion on Github with any suggestions or bugs you find.
 
